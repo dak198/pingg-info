@@ -2,7 +2,11 @@ module.exports = {
   someSidebar: {
     Manual: [
       'product-overview',
-      'getting-started',
+      {
+        type: 'category',
+        label: 'Getting Started',
+        items: ['login', 'help-mode', 'sample-runs'],
+      },
       {
         type: 'category',
         label: 'Modes of Operation',
