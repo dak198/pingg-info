@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'pingg info',
+  title: 'pingg',
   tagline: 'Where better matches are made',
   url: 'https://info.pingg.tech/',
   baseUrl: '/',
