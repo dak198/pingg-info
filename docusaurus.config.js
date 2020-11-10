@@ -49,7 +49,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: 'Coded by Zach Grimaldi, Joseph Paul, Dominic Karras, Faaris Ismail, and Mike Voit\nCS 1530 G11',
+      copyright: 'CS 1530 Software Engineering, Group 11',
     },
   },
   presets: [
