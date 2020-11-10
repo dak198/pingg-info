@@ -11,47 +11,35 @@ const features = [
     title: 'Joseph Paul',
     imageUrl: 'https://avatars3.githubusercontent.com/u/58673176?s=400&v=4',
     description: (
-      <> Project Manager, Database Programmer, Application Programmer, Tester</>
+      <>Project Manager, Database Programmer, Application Programmer, Tester</>
     ),
   },
   {
     title: 'Zach Grimaldi',
     imageUrl: 'https://avatars3.githubusercontent.com/u/17848742?s=400&u=f6b82f87b177321e98e54f0569704cc5b1aab554&v=4',
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <>GUI Programmer, Application Programmer</>
     ),
   },
   {
     title: 'Dominic Karras',
     imageUrl: 'https://avatars1.githubusercontent.com/u/69974367?s=460&v=4',
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Document Specialist, Salesperson</>
     ),
   },
   {
     title: 'Faaris Ismail',
     imageUrl: 'https://avatars1.githubusercontent.com/u/63711786?s=400&v=4',
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Document Specialist, GUI Programmer, Salesperson</>
     ),
   },
   {
     title: 'Mike Voit',
     imageUrl: 'https://avatars0.githubusercontent.com/u/43452279?s=400&v=4',
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Database Programmer, Application Programmer, Tester</>
     ),
   },
 ];
