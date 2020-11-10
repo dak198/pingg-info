@@ -16,7 +16,7 @@ const features = [
   },
   {
     title: 'Zach Grimaldi',
-    imageUrl: 'https://avatars3.githubusercontent.com/u/17848742?s=400&u=f6b82f87b177321e98e54f0569704cc5b1aab554&v=4',
+    imageUrl: 'https://avatars3.githubusercontent.com/u/58673176?s=400&v=4',
     description: (
       <>GUI Programmer, Application Programmer</>
     ),
