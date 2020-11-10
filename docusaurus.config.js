@@ -37,6 +37,14 @@ module.exports = {
               label: 'Product Overview',
               to: 'docs/',
             },
+            {
+              label: 'Getting Started',
+              to: 'docs/login',
+            },
+            {
+              label: 'Product Overview',
+              to: 'docs/profile-customization',
+            },
           ],
         },
         {
