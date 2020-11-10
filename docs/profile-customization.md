@@ -1,6 +1,6 @@
 ---
 id: profile-customization
-title: Customizng Your Profile
+title: Customizing Your Profile
 sidebar_label: Customize Profile
 ---
 1. Mouse over your profile icon on the top of the screen to reveal a drop-down menu.

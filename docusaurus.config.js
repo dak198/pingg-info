@@ -1,6 +1,6 @@
 module.exports = {
   title: 'pingg',
-  tagline: 'Where better matches are made',
+  tagline: 'Information and Help Site',
   url: 'https://info.pingg.tech/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -9,7 +9,6 @@ module.exports = {
   projectName: 'pingg', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'pingg',
       logo: {
         alt: 'pingg Logo',
         src: 'https://pingg.tech/assets/images/pingg_logo.png',
@@ -50,7 +49,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: 'Coded by Zach Grimaldi, Joseph Paul, Dominic Karras, Faaris Ismail, and Mike Voit\nCS 1530 G11',
     },
   },
   presets: [
