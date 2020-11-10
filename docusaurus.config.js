@@ -1,10 +1,10 @@
 module.exports = {
   title: 'pingg',
-  tagline: 'The tagline of pingg',
+  tagline: 'Where better matches are made',
   url: 'https://info.pingg.tech/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://pingg.tech/assets/images/favicon@32pt.png',
   organizationName: 'CS1530 G11', // Usually your GitHub org/user name.
   projectName: 'pingg', // Usually your repo name.
   themeConfig: {
@@ -12,7 +12,7 @@ module.exports = {
       title: 'pingg',
       logo: {
         alt: 'pingg Logo',
-        src: 'img/logo.svg',
+        src: 'https://pingg.tech/assets/images/pingg_logo.png',
       },
       items: [
         {
