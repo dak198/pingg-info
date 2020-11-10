@@ -8,6 +8,10 @@ module.exports = {
   organizationName: 'CS1530 G11', // Usually your GitHub org/user name.
   projectName: 'pingg', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+    },
     navbar: {
       logo: {
         alt: 'pingg Logo',
