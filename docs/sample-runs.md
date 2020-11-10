@@ -1,6 +1,7 @@
 ---
 id: sample-runs
 title: Sample Runs
+slug: sample-runs/
 ---
 ## Creating a Post
 This guide will walk you through how to login and create a post on pingg.
