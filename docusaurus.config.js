@@ -1,7 +1,7 @@
 module.exports = {
   title: 'pingg',
   tagline: 'The tagline of pingg',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://info.pingg.tech/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
