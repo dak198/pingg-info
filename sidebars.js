@@ -5,7 +5,15 @@ module.exports = {
       {
         type: 'category',
         label: 'Getting Started',
-        items: ['login', 'help-mode', 'sample-runs'],
+        items: [
+          'login',
+          'help-mode',
+          {
+            type: 'category',
+            label: 'Sample Runs',
+            items: ['post-sample', 'profile-sample',],
+          },
+        ],
       },
       {
         type: 'category',
