@@ -3,11 +3,12 @@ module.exports = {
     Manual: [
       'product-overview',
       'getting-started',
-      {
-        type: 'subcategory',
-        label: 'Modes of Operation',
-        ids: ['profile-customization', 'search', 'create-post', 'report-issue'],
-      },
+      Modes of Operation: [
+        'profile-customization',
+        'search',
+        'create-post',
+        'report-issue'
+    ],
       'tutorial',
     ],
   },
