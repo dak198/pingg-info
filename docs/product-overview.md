@@ -1,7 +1,7 @@
 ---
 id: product-overview
-title: Style Guide
-sidebar_label: Style Guide
+title: Product Overview
+sidebar_label: Product Overview
 slug: /
 ---
 
