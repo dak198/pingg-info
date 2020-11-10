@@ -42,7 +42,7 @@ module.exports = {
               to: 'docs/login',
             },
             {
-              label: 'Product Overview',
+              label: 'Modes of Operation',
               to: 'docs/profile-customization',
             },
           ],
