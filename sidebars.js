@@ -4,9 +4,9 @@ module.exports = {
       'product-overview',
       'getting-started',
       {
-        'type': 'subcategory',
-        'label': 'Modes of Operation',
-        'ids': ['profile-customization', 'search', 'create-post', 'report-issue'],
+        type: 'subcategory',
+        label: 'Modes of Operation',
+        ids: ['profile-customization', 'search', 'create-post', 'report-issue'],
       },
       'tutorial',
     ],
