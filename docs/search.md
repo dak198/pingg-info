@@ -1,0 +1,4 @@
+---
+id: search
+title: Search
+---

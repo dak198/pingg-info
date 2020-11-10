@@ -1,6 +1,14 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['product-overview', 'getting-started', 'modes-of-operation', 'tutorial'],
-    Features: ['mdx'],
+    Manual: [
+      'product-overview',
+      'getting-started',
+      {
+        'type': 'subcategory',
+        'label': 'Modes of Operation',
+        'ids': ['profile-customization', 'search', 'create-post', 'report-issue'],
+      },
+      'tutorial',
+    ],
   },
 };
