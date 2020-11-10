@@ -38,10 +38,6 @@ module.exports = {
               label: 'Product Overview',
               to: 'docs/product-overview',
             },
-            {
-              label: 'Getting Started',
-              to: 'docs/getting-started/',
-            },
           ],
         },
         {
