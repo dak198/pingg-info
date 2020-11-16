@@ -1,6 +1,7 @@
 ---
 id: profile-sample
 title: Sample Profile Customization
+custom_edit_url: null
 ---
 ## Customizing Your Profile
 This guide will walk you through how to login to pingg and customize your profile.
