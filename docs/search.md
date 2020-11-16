@@ -1,6 +1,7 @@
 ---
 id: search
 title: Search
+custom_edit_url: null
 ---
 1. Click on the white bar at the top right labelled “Search” to select it.
 2. Begin entering your desired search information. You can search for users, games, post titles, post content, and tags.
