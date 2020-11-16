@@ -2,6 +2,7 @@
 id: profile-customization
 title: Customizing Your Profile
 sidebar_label: Customize Profile
+custom_edit_url: null
 ---
 1. Mouse over your profile icon on the top of the screen to reveal a drop-down menu.
 2. In the drop-down menu, click “Profile” to view your current profile.
