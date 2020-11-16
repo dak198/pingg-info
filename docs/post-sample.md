@@ -1,6 +1,7 @@
 ---
 id: post-sample
 title: Sample Post Creation
+custom_edit_url: null
 ---
 ## Creating a Post
 This guide will walk you through how to login and create a post on pingg.
