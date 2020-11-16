@@ -2,6 +2,7 @@
 id: login
 title: Logging In
 sidebar_label: Login
+custom_edit_url: null
 ---
 To access pingg you will first need to register an account. You can create an account using your email address or link an existing account for a different service.
 To create a new account using your email address, click on “Sign in with email” and enter your desired email address into the prompt. You will then be asked to enter your name and choose a password for your account. After you have successfully entered your information, click “SAVE” to finalize your information. You will now be redirected to your pingg homepage. Before you begin using the site, check your email for a confirmation link, and click the link to complete your email registration.
