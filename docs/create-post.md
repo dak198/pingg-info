@@ -2,6 +2,7 @@
 id: create-post
 title: Creating a Post
 sidebar_label: Create Post
+custom_edit_url: null
 ---
 1. Click the “New Post” button on the left panel to create a new post. A pop-up window will appear with a Title field, a Post field, and a Tags field.
 2. To set the title for your post, click the title field and type up to 200 characters.
