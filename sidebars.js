@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Manual: [
+    "Help Site": [
       'product-overview',
       {
         type: 'category',

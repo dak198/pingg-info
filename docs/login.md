@@ -13,7 +13,7 @@ We currently allow third-party sign in through Google and Twitter.
 :::
 
 
-To create a new account using your email address, click on “Sign in with email” and enter your desired email address into the prompt. You will then be asked to choose a password for your account. After you have successfully entered your information, click “SAVE” to finalize your information. You will now be redirected to your **pingg** homepage. Before you begin using the site for the first time, you will be asked to complete a form with personal information.
+To create a new account using your email address, click on 'Sign in with email' and enter your desired email address into the prompt. You will then be asked to choose a password for your account. After you have successfully entered your information, click 'SAVE' to finalize your information. You will now be redirected to your **pingg** homepage. Before you begin using the site for the first time, you will be asked to complete a form with personal information.
 
 
 ![login page](../static/img/8.png)
