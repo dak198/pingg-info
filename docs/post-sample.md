@@ -4,13 +4,13 @@ title: Sample Post Creation
 custom_edit_url: null
 ---
 ## Creating a Post
-This guide will walk you through how to login and create a post on pingg.
+This guide will walk you through how to login and create a post on **pingg**.
 1. To access the posting feature, you will first need to create an account. In this guide, we will create the account using an email address, but you may also choose to link an account using a different service.
-    1. Go to http://pingg.tech and click “Sign in with email.”
+    1. Go to https://pingg.tech and click “Sign in with email.”
     2. Type your desired email address into the prompt and click “NEXT.” A new dialog will appear asking for your name and password.
     3. Enter your first and last name in the appropriate field and then enter your desired account password to be used in future logins.
     4. Click “SAVE” to finalize your information.
-2. Once you have created your account, you will see the pingg homepage, from which you can create a new post.
+2. Once you have created your account, you will see the **pingg** homepage, from which you can create a new post.
 3. On the homepage, click on the red “New Post” button. A pop-up window will appear with a Title field, a Post field, and a Tags field.
 4. This guide will demonstrate how to create a text post, but you can also create an image or video post following a similar process.
     1. First, set the title for your post by clicking the title field and typing up to 200 characters.
