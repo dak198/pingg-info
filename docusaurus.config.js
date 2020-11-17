@@ -1,6 +1,6 @@
 module.exports = {
   title: 'pingg',
-  tagline: 'Information and Help Site',
+  tagline: 'Where better help is found.',
   url: 'https://info.pingg.tech/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
