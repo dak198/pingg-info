@@ -17,4 +17,4 @@ Finally, to promote an overall sense of community, **pingg** provides a regional
 
 
 
-![img](../static/img/pingg_logo_bg.png)
+![app logo](../static/img/pingg_logo_bg.png)
