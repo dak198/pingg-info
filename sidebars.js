@@ -7,7 +7,6 @@ module.exports = {
         label: 'Getting Started',
         items: [
           'login',
-          'help-mode',
           {
             type: 'category',
             label: 'Sample Runs',
