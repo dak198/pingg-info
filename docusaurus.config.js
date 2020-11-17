@@ -20,19 +20,16 @@ module.exports = {
       items: [
         {
           to: 'docs/profile-customization',
-          activeBasePath: 'docs',
           label: 'Customize Profile',
           position: 'left',
         },
         {
           to: 'docs/search',
-          activeBasePath: 'docs',
           label: 'Search',
           position: 'left',
         },
         {
           to: 'docs/create-post',
-          activeBasePath: 'docs',
           label: 'Create Post',
           position: 'left',
         },
@@ -50,16 +47,16 @@ module.exports = {
           title: 'Help Site',
           items: [
             {
-              label: 'Product Overview',
-              to: 'docs/',
-            },
-            {
-              label: 'Getting Started',
-              to: 'docs/login',
-            },
-            {
-              label: 'Modes of Operation',
               to: 'docs/profile-customization',
+              label: 'Customize Profile',
+            },
+            {
+              to: 'docs/search',
+              label: 'Search',
+            },
+            {
+              to: 'docs/create-post',
+              label: 'Create Post',
             },
           ],
         },
