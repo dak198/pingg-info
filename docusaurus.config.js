@@ -19,9 +19,21 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/profile-customization',
           activeBasePath: 'docs',
-          label: 'Help Site',
+          label: 'Customize Profile',
+          position: 'left',
+        },
+        {
+          to: 'docs/search',
+          activeBasePath: 'docs',
+          label: 'Search',
+          position: 'left',
+        },
+        {
+          to: 'docs/create-post',
+          activeBasePath: 'docs',
+          label: 'Create Post',
           position: 'left',
         },
         {

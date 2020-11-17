@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: [
     'product-overview',
-    'login',
+    'your-account',
     'profile-customization', 
     'search', 
     'create-post', 

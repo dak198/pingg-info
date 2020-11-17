@@ -1,5 +1,5 @@
 ---
-id: login
+id: your-account
 title: Your Account
 sidebar_label: Your Account
 custom_edit_url: null
