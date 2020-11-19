@@ -6,5 +6,6 @@ module.exports = {
     'search', 
     'create-post', 
     'report-issue',
+    'data-flow',
   ],
 };
